@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-04-27 19:54:39",
+  "BME1": {
+    "temperature": 26.64,
+    "humidity": 73.2793,
+    "pressure": 1000.869
+  },
+  "BME2": {
+    "temperature": 26.18,
+    "humidity": 74.31445,
+    "pressure": 1000.642
+  }
+}
